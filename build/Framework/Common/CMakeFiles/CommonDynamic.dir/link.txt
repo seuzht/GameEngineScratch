@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libCommonDynamic.so -o ../../Debug/libCommonDynamic.so CMakeFiles/CommonDynamic.dir/BaseApplication.cpp.o CMakeFiles/CommonDynamic.dir/GraphicsManager.cpp.o CMakeFiles/CommonDynamic.dir/main.cpp.o 

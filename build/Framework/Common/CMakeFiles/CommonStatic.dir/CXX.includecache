@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Common/BaseApplication.cpp
+BaseApplication.hpp
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Common/BaseApplication.hpp
+
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Common/BaseApplication.hpp
+../Interface/IApplication.hpp
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Interface/IApplication.hpp
+
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Common/GraphicsManager.cpp
+GraphicsManager.hpp
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Common/GraphicsManager.hpp
+
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Common/GraphicsManager.hpp
+../Interface/IRuntimeModule.hpp
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Interface/IRuntimeModule.hpp
+
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Common/main.cpp
+stdio.h
+-
+../Interface/IApplication.hpp
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Interface/IApplication.hpp
+
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Interface/IApplication.hpp
+Interface.hpp
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Interface/Interface.hpp
+IRuntimeModule.hpp
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Interface/IRuntimeModule.hpp
+
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Interface/IRuntimeModule.hpp
+Interface.hpp
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Interface/Interface.hpp
+
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Interface/Interface.hpp
+

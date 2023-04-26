@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Common/BaseApplication.hpp
+../Interface/IApplication.hpp
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Interface/IApplication.hpp
+
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Interface/IApplication.hpp
+Interface.hpp
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Interface/Interface.hpp
+IRuntimeModule.hpp
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Interface/IRuntimeModule.hpp
+
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Interface/IRuntimeModule.hpp
+Interface.hpp
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Interface/Interface.hpp
+
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Interface/Interface.hpp
+
+/home/dennis/Desktop/GameEngineFromScratch/Platform/PlatformApplication.cpp
+../Framework/Common/BaseApplication.hpp
+/home/dennis/Desktop/GameEngineFromScratch/Framework/Common/BaseApplication.hpp
+

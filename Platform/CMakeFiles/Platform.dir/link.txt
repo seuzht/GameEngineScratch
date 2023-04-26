@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/Platform.dir/PlatformApplication.cpp.o  -o ../Debug/Platform -Wl,-rpath,/home/dennis/Desktop/GameEngineFromScratch/Debug ../Debug/libCommonDynamic.so 

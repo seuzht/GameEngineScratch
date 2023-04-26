@@ -1,0 +1,11 @@
+/home/dennis/Desktop/GameEngineFromScratch/build/CMakeFiles/rebuild_cache.dir
+/home/dennis/Desktop/GameEngineFromScratch/build/CMakeFiles/edit_cache.dir
+/home/dennis/Desktop/GameEngineFromScratch/build/Framework/CMakeFiles/rebuild_cache.dir
+/home/dennis/Desktop/GameEngineFromScratch/build/Framework/CMakeFiles/edit_cache.dir
+/home/dennis/Desktop/GameEngineFromScratch/build/Framework/Common/CMakeFiles/edit_cache.dir
+/home/dennis/Desktop/GameEngineFromScratch/build/Framework/Common/CMakeFiles/rebuild_cache.dir
+/home/dennis/Desktop/GameEngineFromScratch/build/Framework/Common/CMakeFiles/CommonStatic.dir
+/home/dennis/Desktop/GameEngineFromScratch/build/Framework/Common/CMakeFiles/CommonDynamic.dir
+/home/dennis/Desktop/GameEngineFromScratch/build/Platform/CMakeFiles/rebuild_cache.dir
+/home/dennis/Desktop/GameEngineFromScratch/build/Platform/CMakeFiles/Platform.dir
+/home/dennis/Desktop/GameEngineFromScratch/build/Platform/CMakeFiles/edit_cache.dir
